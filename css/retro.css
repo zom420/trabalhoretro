@@ -1,0 +1,34 @@
+body{
+	background-image: url("../img/background/literature.jpg");
+	background-attachment: fixed;
+}
+
+.conteudo > .row{
+	margin-top: 20vh;
+}
+
+.page-footer{
+	margin-top: 30vh;
+}
+
+.img{
+	height: 5vh;
+	width: 5vw;
+
+}
+
+#a{
+	
+	height: 5vh;
+	width: 5vw;
+}
+
+p{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+
+
+
